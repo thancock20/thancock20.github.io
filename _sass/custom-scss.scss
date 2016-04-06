@@ -1,0 +1,43 @@
+// Add your own custom CSS here.
+@import "manni";
+
+.post-content img,
+.post-excerpt-home img,
+.post-nav img {
+  @extend .img-rounded;
+}
+.post-content table,
+.post-excerpt-home table,
+.post-nav table {
+  @extend .table;
+  @extend .table-bordered;
+}
+
+.highlight td {
+  padding: 0 !important;
+}
+
+.highlight pre {
+  margin-bottom: 0;
+}
+
+.lineno {
+  padding: 13px 0;
+}
+
+.portfolio-item:hover {
+  background-color: #1c70ac;
+  color: #d3eeec;
+}
+
+.portfolio-item h2 {
+  margin: 10px 0 !important;
+}
+
+.portfolio-item p {
+  margin-top: 10px;
+}
+
+a:hover {
+  text-decoration: none;
+}
