@@ -25,8 +25,13 @@
   padding: 13px 0;
 }
 
+.portfolio-item {
+  border-color: #3598db;
+  color: #37321c;
+}
+
 .portfolio-item:hover {
-  background-color: #3598db;
+  background-color: #ff5b1f;
   color: #d3eeec;
 }
 
@@ -40,4 +45,5 @@
 
 a:hover {
   text-decoration: none;
+  color: #ff5b1f;
 }
