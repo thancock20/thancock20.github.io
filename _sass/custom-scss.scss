@@ -27,12 +27,18 @@
 
 .portfolio-item {
   border-color: #3598db;
-  color: #37321c;
+
+  h2 {
+    color: #3598db;
+  }
 }
 
 .portfolio-item:hover {
-  background-color: #ff5b1f;
-  color: #d3eeec;
+  border-color: #ff5b1f;
+
+  h2 {
+    color: #ff5b1f;
+  }
 }
 
 .portfolio-item h2 {
@@ -43,7 +49,8 @@
   margin-top: 10px;
 }
 
-a:hover {
-  text-decoration: none;
+.btn-primary:hover {
   color: #ff5b1f;
+  border-color: #ff5b1f;
+  background-color: #fff;
 }
