@@ -1,0 +1,20 @@
+- title: Markdown Previewer
+  link: http://codepen.io/thancock20/full/zrxEJg/
+  image: https://lh3.googleusercontent.com/-n2im0P6FLIY/Vw09zJEbY3I/AAAAAAAAEcY/PxBkPLQUHmwV59amTht6h62M6ShA7ltsgCCo/s800-Ic42/1%2BMarkdown%2BPreviewer.png
+  description: Type Markdown in the left pane, and see the preview in the right pane.
+- title: Camper Leaderboard
+  link: http://codepen.io/thancock20/full/QypvVB/
+  image: https://lh3.googleusercontent.com/-iN-7blL1bXU/Vw09zHRqGcI/AAAAAAAAEcY/j3KCwai5c6sj87yytRfed2a674meDcRHwCCo/s800-Ic42/2%2BCamper%2BLeaderboard.png
+  description: Leaderboard by points for campers at freeCodeCamp. Can be sorted by points in the last 30 days or all time points.
+- title: Recipe Box
+  link: http://codepen.io/thancock20/full/mVmJVJ/
+  image: https://lh3.googleusercontent.com/-qurBr-l_83I/Vw1AhrFrOXI/AAAAAAAAEcw/-1FErvJMUa8Bz5f_a310GpOkib4SXYXTACCo/s800-Ic42/3%2BRecipe%2BBox.png
+  description: Recipes can be added, edited, or deleted. They are saved in the browsers local storage.
+- title: Game of Life
+  link: http://codepen.io/thancock20/full/jWGKmb/
+  image: https://lh3.googleusercontent.com/-uP__xowVyfo/Vw09zmGlbCI/AAAAAAAAEcg/32hqeG_Nl3EOzxPEuDunkWppXA-rhanIgCCo/s800-Ic42/4%2BConway.png
+  description: Conway's Game of Life. You can click on the board to add cells as the simulation is running.
+- title: Caverns of Reakt
+  link: http://codepen.io/thancock20/full/jWpRzE/
+  image: https://lh3.googleusercontent.com/-mdTSnbheBZs/Vw09zzf2hbI/AAAAAAAAEcg/umjd1vpXUbADOy8dt1RJcsS1hXpFUzt7wCCo/s800-Ic42/5%2BCaverns%2Bof%2BReakt.png
+  description: A roguelike game. Defeat the dragon on Level 5 to win. But be careful, there are no extra lives to be had.

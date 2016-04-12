@@ -2,10 +2,42 @@
 title: Projects
 permalink: "projects/index.html"
 ---
-<h1>PROJECTS</h1>
-<h3><a href="#front-end">Front-end projects</a></h3>
+<h1 id="top">PROJECTS</h1>
+<ul>
+  <li><a href="#front-end">Front-end projects</a></li>
+  <li><a href="#react">React projects</a></li>
+  <li><a href="#d3">D3 projects</a></li>
+  <li><a href="#api">API microservices</a></li>
+</ul>
+
+<hr />
 <h1 id="front-end">Front-end projects</h1>
-<h3>These projects are written in HTML, CSS, and Javascript. All are hosted on Codepen.</h3>
+<p>These projects are written in HTML, CSS, and Javascript. All are hosted on Codepen.</p>
 {% for project in site.data.projects.front-end %}
   {% include project.html %}
 {% endfor %}
+<a href="#top">▲ Back to top</a>
+
+<hr />
+<h1 id="react">React projects</h1>
+<p>These projects use the React library from Facebook to create views. All are hosted on Codepen.</p>
+{% for project in site.data.projects.react %}
+  {% include project.html %}
+{% endfor %}
+<a href="#top">▲ Back to top</a>
+
+<hr />
+<h1 id="d3">D3 projects</h1>
+<p>These projects use the d3.js library to visualize data. All are hosted on Codepen.</p>
+{% for project in site.data.projects.d3 %}
+  {% include project.html %}
+{% endfor %}
+<a href="#top">▲ Back to top</a>
+
+<hr />
+<h1 id="api">API microservices</h1>
+<p>These projects use node.js and express.js to create simple RESTful APIs. All are hosted on Heroku, with the code on Github.</p>
+{% for project in site.data.projects.api %}
+  {% include project.html %}
+{% endfor %}
+<a href="#top">▲ Back to top</a>

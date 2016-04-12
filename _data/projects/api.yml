@@ -1,0 +1,20 @@
+- title: Timestamp
+  link: https://radiant-taiga-53469.herokuapp.com/
+  image: https://lh3.googleusercontent.com/-AYfEi6fUlJk/Vw1GauO_4CI/AAAAAAAAEeI/elZf3Zg8Ch88LS1ayfBQFJuB5CsF8kR6ACCo/s800-Ic42/1%2BTimestamp.png
+  description: Accepts and returns Unix timestamps and natural language dates.
+- title: Request Header Parser
+  link: https://arcane-reef-31516.herokuapp.com/
+  image: https://lh3.googleusercontent.com/-oFBXU2tHJFU/Vw1Ga_msbkI/AAAAAAAAEeI/OLiAzSnA02MeP7ESfr4TWNkol99Tqng8QCCo/s800-Ic42/2%2BRequest%2BHeader%2BParser.png
+  description: Returns the header information of API requests.
+- title: URL Shortener
+  link: https://sh-url.herokuapp.com/
+  image: https://lh3.googleusercontent.com/-5W2DbBrBdIk/Vw1Ga9zbE0I/AAAAAAAAEeI/Aer2Atkkn38vX_1fkjBOQS-ZLZlTB7SigCCo/s800-Ic42/3%2BURL%2BShortener.png
+  description: Similar to how bit.ly functions.
+- title: Image Search Abstraction Layer
+  link: https://cryptic-dawn-13485.herokuapp.com/
+  image: https://lh3.googleusercontent.com/-ne1LJL53ZKw/Vw1GbDH8bGI/AAAAAAAAEeI/6xt3wETIvJw-GQX0LzPyRdXOPxKL5vZ0wCCo/s800-Ic42/4%2BImage%2BSearch%2BAbstraction%2BLayer.png
+  description: An API wrapper around Bing's image search. With pagination and most recent searches capabilities.
+- title: File Metadata
+  link: https://whispering-oasis-55605.herokuapp.com/
+  image: https://lh3.googleusercontent.com/-5Rc0yPJWDEA/Vw1GbSDjyRI/AAAAAAAAEeI/imVz-PLk6MA0XIKLxqPjKZglCbI6LaHSgCCo/s800-Ic42/5%2BFile%2BMetadata.png
+  description: Upload a file, and get the filesize in bytes as a response.
