@@ -63,3 +63,45 @@
 .sidebar {
   padding-left: 20px;
 }
+
+#header {
+  // height: 100%;
+  // height: 100vh;
+  // width: 50%;
+  // width: 50vw;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("https://lh3.googleusercontent.com/-oNkT9rQ7BDg/Vw8jyDWAEMI/AAAAAAAAEeY/gBJtZqhVSgYD_twPXcEuz5zdwI_55CQlQCCo/s800-Ic42/computers.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #FFF;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 991px) {
+  .vertical-center {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 767px) {
+  .gravatar {
+    width: 100px;
+    height: 100px;
+  }
+
+  .vertical-center {
+    flex-direction: row;
+  }
+}
+
+@media (max-width: 434px) {
+  .vertical-center {
+    flex-direction: column;
+  }
+}
