@@ -17,6 +17,7 @@ Additionally, I have experience with the following languages and technologies:
   * Handlebars
   * EJS
   * Slim
+  * Liquid
   * ERB
 * Styling
   * CSS
@@ -30,6 +31,11 @@ Additionally, I have experience with the following languages and technologies:
   * React
   * D3
   * Bootstrap
+* Data Markup
+  * JSON
+  * CSON
+  * XML
+  * YAML
 * Server side
   * Node.js
   * Express.js
