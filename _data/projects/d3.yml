@@ -10,11 +10,11 @@
   link: http://codepen.io/thancock20/full/Rawqjw/
   image: https://lh3.googleusercontent.com/-K6WH9ZOGz5Q/Vw1CAg-NmuI/AAAAAAAAEdg/uvpR3uXLoYYkNobgpURyUik0NpzCkL60QCCo/s800-Ic42/4%2BHeat%2BMap.png
   description: A heat map. Visualizes the global land-surface temperature by month. Hover over a cell for more information.
-- title: Camper News Network
-  link: http://codepen.io/thancock20/full/BKyeJG/
-  image: https://lh3.googleusercontent.com/-LD3LwEASpsY/Vw1CAW-Z5YI/AAAAAAAAEdg/cPSrYZXSb2oZs1NW8nDetlCzCCq8brhhwCCo/s800-Ic42/3%2BForce%2BDirected%2BGraph.png
-  description: A force directed graph. Visualizes the relationships between domains and the campers who have posted news from them on freeCodeCamp's Camper News site. Hover over a circle for more information.
-- title: Meteorites Across the Globe
-  link: http://codepen.io/thancock20/full/oxXZbr/
-  image: https://lh3.googleusercontent.com/-c8D9nCaUhXU/Vw1CBQ2H1OI/AAAAAAAAEdg/56yi4KKoR-AvsvsxlCg2ZwPrPxAOagT5gCCo/s800-Ic42/5%2BMapping.png
-  description: A world map with meteorite data. The larger the circle, the higher the mass of the meteorite. Hover over a circle for more information.
+# - title: Camper News Network
+#   link: http://codepen.io/thancock20/full/BKyeJG/
+#   image: https://lh3.googleusercontent.com/-LD3LwEASpsY/Vw1CAW-Z5YI/AAAAAAAAEdg/cPSrYZXSb2oZs1NW8nDetlCzCCq8brhhwCCo/s800-Ic42/3%2BForce%2BDirected%2BGraph.png
+#   description: A force directed graph. Visualizes the relationships between domains and the campers who have posted news from them on freeCodeCamp's Camper News site. Hover over a circle for more information.
+# - title: Meteorites Across the Globe
+#   link: http://codepen.io/thancock20/full/oxXZbr/
+#   image: https://lh3.googleusercontent.com/-c8D9nCaUhXU/Vw1CBQ2H1OI/AAAAAAAAEdg/56yi4KKoR-AvsvsxlCg2ZwPrPxAOagT5gCCo/s800-Ic42/5%2BMapping.png
+#   description: A world map with meteorite data. The larger the circle, the higher the mass of the meteorite. Hover over a circle for more information.
