@@ -10,10 +10,10 @@
   link: https://sh-url.herokuapp.com/
   image: https://lh3.googleusercontent.com/-5W2DbBrBdIk/Vw1Ga9zbE0I/AAAAAAAAEeI/Aer2Atkkn38vX_1fkjBOQS-ZLZlTB7SigCCo/s800-Ic42/3%2BURL%2BShortener.png
   description: Similar to how bit.ly functions.
-- title: Image Search Abstraction Layer
-  link: https://cryptic-dawn-13485.herokuapp.com/
-  image: https://lh3.googleusercontent.com/-ne1LJL53ZKw/Vw1GbDH8bGI/AAAAAAAAEeI/6xt3wETIvJw-GQX0LzPyRdXOPxKL5vZ0wCCo/s800-Ic42/4%2BImage%2BSearch%2BAbstraction%2BLayer.png
-  description: An API wrapper around Bing's image search. With pagination and most recent searches capabilities.
+# - title: Image Search Abstraction Layer
+#   link: https://cryptic-dawn-13485.herokuapp.com/
+#   image: https://lh3.googleusercontent.com/-ne1LJL53ZKw/Vw1GbDH8bGI/AAAAAAAAEeI/6xt3wETIvJw-GQX0LzPyRdXOPxKL5vZ0wCCo/s800-Ic42/4%2BImage%2BSearch%2BAbstraction%2BLayer.png
+#   description: An API wrapper around Bing's image search. With pagination and most recent searches capabilities.
 - title: File Metadata
   link: https://whispering-oasis-55605.herokuapp.com/
   image: https://lh3.googleusercontent.com/-5Rc0yPJWDEA/Vw1GbSDjyRI/AAAAAAAAEeI/imVz-PLk6MA0XIKLxqPjKZglCbI6LaHSgCCo/s800-Ic42/5%2BFile%2BMetadata.png

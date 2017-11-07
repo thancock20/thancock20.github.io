@@ -1,13 +1,13 @@
 - title: Random Programming Quotes Machine
-  link: http://codepen.io/thancock20/full/epjERo/
+  link: http://www.toddhancock.net/random-quotes-machine/
   image: https://lh3.googleusercontent.com/-uzZfakzjSCc/VmCQRcZZQkI/AAAAAAAAEX8/8T3zHDe659Y/s800-Ic42/Random%252520Quotes%252520Machine.png
   description: A random quotes generator, where all of the quotes are related to programming.
 - title: Pomodoro Timer
-  link: http://codepen.io/thancock20/full/XmBoaw/
+  link: http://www.toddhancock.net/pomodoro-timer
   image: https://lh3.googleusercontent.com/-6mnDScSKbC4/VmCQSRnOiII/AAAAAAAAEX8/x_yh19JMDMU/s800-Ic42/Pomodoro%252520Timer.png
   description: A timer based on the Pomodoro technique. The user can set the next work or break time while the timer is still running.
 - title: Simple Calculator
-  link: http://codepen.io/thancock20/full/epQpYp/
+  link: http://www.toddhancock.net/simple-calculator
   image: https://lh3.googleusercontent.com/-_FUhiPKdhxg/VmEo0eQtCDI/AAAAAAAAEYU/dAxbgtqeOJw/s800-Ic42/Simple%252520Calculator%252520002.png
   description: A simple javascript calculator with parentheses and a running total on a second line.
 # - title: Local Weather
@@ -19,7 +19,7 @@
 #   image: https://lh3.googleusercontent.com/-1mgMoZQtGBo/VmErIGUORLI/AAAAAAAAEYs/RGV5lnitC7E/s800-Ic42/Twitch%252520Status.png
 #   description: An app that shows whether or not certain users are streaming on Twitch.tv, and what they are streaming if they are.
 - title: Wikipedia Viewer
-  link: http://codepen.io/thancock20/full/zvQNVV/
+  link: http://www.toddhancock.net/wikipedia-viewer
   image: https://lh3.googleusercontent.com/-ugVzYu2x3qg/VmCQyh3UlaI/AAAAAAAAEX8/VQ3a9RZ24_0/s800-Ic42/Wikipedia%252520Viewer.png
   description: Instant Wikipedia search engine that displays findings as the user types.
 # - title: Camper News
@@ -31,6 +31,6 @@
   image: https://lh3.googleusercontent.com/-QWF2sY5i6zQ/VmEvuYQABoI/AAAAAAAAEZc/8Mg2-YS6ewI/s800-Ic42/Screenshot%252520-%25252012_4_2015%252520%25252C%25252012_12_34%252520AM.png
   description: A Tic Tac Toe game. The computer is smart enough to never lose. Only win or draw.
 - title: Simon Game
-  link: http://codepen.io/thancock20/full/NxKrWZ/
+  link: http://www.toddhancock.net/simon-game
   image: https://lh3.googleusercontent.com/-U4--U3BKuDw/VmEwtfMJGuI/AAAAAAAAEZw/sXj5PGnX0E4/s800-Ic42/Screenshot%252520-%25252012_4_2015%252520%25252C%25252012_18_45%252520AM.png
   description: A Simon game. Remember the button order and press them. If the user beats 20 stages she wins. But watch out; it gets faster.
